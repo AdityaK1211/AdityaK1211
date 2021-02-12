@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src='octocat-wave-dribbble.gif' width='300px'>
 
 <!--
 **AdityaK1211/AdityaK1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
